@@ -1,5 +1,12 @@
 # [HLLPlanner.net](https://hllplanner.net)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hllplanner)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/D3HaSRvUaJ)
+
 [HLLP](https://hllplanner.net) Is a brand new shiny tool to help you with managing your Hell Let Loose community and plan events!
+
+Best part? ***Its Free!*** [Join our Discord](https://discord.gg/D3HaSRvUaJ) to request access and get started with your community for absolutely zero charge.
+
+---
 
 ## Features
 - Competitive Match Planning
