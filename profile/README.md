@@ -20,6 +20,8 @@
   - Share your matches with your community with a custom event vanity url (`https://hllplanner.net/event/YOUR-URL`)
   - "Join With Steam" Button on the event page to allow your members to easily join your server before the event starts.
   - You can restrict events to only be joinable by your community members while still having the event details and roster publicly visible.
+- Streamer Options
+  - Add links to streamers for any event so your community knows where to watch where the action happens.
 - Member Management
   - Easily add or remove members to your community through our Discord bot.
   - Admins of your community can create events on our website.
@@ -37,3 +39,8 @@ You can easily create links to event from our website into your Discord server. 
 
 ![Unmanaged roster showcase](https://imagedelivery.net/gvgCVbrg95fY_fE52Kmgpw/4b02f1ab-bef1-4456-2ca3-eaaefa7d2b00/public)
 ![Unmanaged roster showcase with signups allowed](https://imagedelivery.net/gvgCVbrg95fY_fE52Kmgpw/8c41ae05-1d32-4631-f149-5a1cf6c2b200/public)
+
+### Event Home Page
+This is where all relevant information such as game map, join URL, server name, streamers, etc., are located.
+
+![Image showing relevant event information](https://imagedelivery.net/gvgCVbrg95fY_fE52Kmgpw/41505438-770c-490c-570c-e763b9bc7600/public)
